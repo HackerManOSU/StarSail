@@ -1,0 +1,9 @@
+*.env
+
+*.local.env
+
+.vscode
+
+simulation/build/
+
+Plan.md
